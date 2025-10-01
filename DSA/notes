@@ -1,0 +1,10 @@
+1.linear search
+
+Searching every element in an array in a linear way
+
+Time Complexity : O(N)
+
+2.Binary Searching
+
+Array should be sorted only
+
